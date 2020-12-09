@@ -1,6 +1,7 @@
 # Contributors
 
-- [kris tel] (https://github.com/panamtown04)
+- Mayank
+- [kris tel](https://github.com/panamtown04)
 - [Andrew Carrigan](https://github.com/carrigan223)
 - [İlkay Dinç](https://github.com/ilkaydnc)
 - [Thomas Jean-Pierre](https://github.com/Z3nux)
